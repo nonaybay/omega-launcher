@@ -1,0 +1,1 @@
+{"commandLine":["/usr/bin/fdroid signindex"],"endTimestamp":1616527705352,"signed":["repo/index-v1.json"],"startTimestamp":1616538504000,"subcommand":"signindex"}
